@@ -1,0 +1,13 @@
+{
+  "name": "cardgame",
+  "version": "1.0.0",
+  "description": "Card game basic functions",
+  "main": "UnoGame.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node UnoGame.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Rigal",
+  "license": "ISC"
+}
